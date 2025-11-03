@@ -11,19 +11,7 @@ ${\textsf{\color{#FFCC33} "ᴡʜᴇʀᴇᴠᴇʀ ʏᴏᴜ ɢᴏ, ɪ ᴡᴏɴ'ᴛ
 ${\textsf{\color{#FFCC33} ʏᴏᴜ'ʟʟ ʟᴇᴀʀɴ ᴡʜᴀᴛ ɪ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ. ɪ ʟᴏᴠᴇ ʏᴏᴜ ᴍᴇᴀɴꜱ ʏᴏᴜ'ʀᴇ ɴᴇᴠᴇʀ, ᴇᴠᴇʀ, ᴇᴠᴇʀ ɢᴇᴛᴛɪɴɢ ʀɪᴅ ᴏꜰ ᴍᴇ." }}$
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/60cb06a9-5c2d-43c4-8b88-c41731cf59e2" width=800>
-
-<p align="center">
 ${\textsf{\color{#56E6AC} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧────── }}$
-
-<p align="center">
-<a href="https://soldiers-grace.straw.page">Strawpage</a> ${\textsf{\color{#D4B426} 𖥔.☁︎.𖥔 }}$ <a href="https://en.pronouns.page/@M3DK1T_F0RTUN3">Pronouns Page</a>
-
-<p align="center">
-${\textsf{\color{#56E6AC} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧────── }}$
-
-<p align="center">
-${\textsf{\color{#D4B426} Draw something in my Strawpage if you wish to. }}$
 
 
 ![:Allies:](https://komarev.com/ghpvc/?username=GUILLOTINE-BL3SS1NG&color=ffcc33&label=Allies)
