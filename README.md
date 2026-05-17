@@ -22,6 +22,9 @@ Following every Guts and Blackpowder and history accounts I saw, occasionally Co
 Check out my main and links if you're interested.
 
 
+<p align="center">
+${\textsf{\color{#A0E6FF} I will edit more if I have more time. }}$
+
 
 ![:Allies:](https://komarev.com/ghpvc/?username=OPERATION-OVERL0RD&color=ffcc33&label=Allies)
 
