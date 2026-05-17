@@ -18,6 +18,9 @@ ${\textsf{\color{#56E6AC} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧──�
 <p align="center">
 Following every Guts and Blackpowder and history accounts I saw, occasionally Countryhuman and Hetalia as well if I found it interesting enough.
 
+<p align="center">
+Check out my main and links if you're interested.
+
 
 
 ![:Allies:](https://komarev.com/ghpvc/?username=OPERATION-OVERL0RD&color=ffcc33&label=Allies)
