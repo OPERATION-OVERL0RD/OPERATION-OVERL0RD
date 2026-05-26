@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ae34181e-6de0-4c5e-947d-c89882072abb" width=600>
+<img src="https://github.com/user-attachments/assets/55ab9635-ecae-4974-be0b-a24ceb937fa9" width=600>
 
 <p align="center">
 ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
