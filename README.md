@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://i.gifer.com/8vS2.gif" width=700>
+<img src="https://github.com/user-attachments/assets/ae34181e-6de0-4c5e-947d-c89882072abb" width=600>
 
 <p align="center">
 ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
@@ -35,8 +35,7 @@ ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f12ed6fe-bcaf-4cf7-86ee-64878cc58c8e" width=700>
-
+<img src="https://i.gifer.com/8vS2.gif" width=700>
 
 
 <p align="center">
