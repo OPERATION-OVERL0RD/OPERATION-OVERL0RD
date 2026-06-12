@@ -16,8 +16,39 @@ ${\textsf{\color{#FFCC33} "All animals are equal, but some animals are more equa
 ${\textsf{\color{#56E6AC} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧────── }}$
 
 
+
 <p align="center">
-Following every Guts and Blackpowder and history accounts I saw, occasionally Countryhuman and Hetalia as well if I found it interesting enough.
+<details closed>
+<summary>. ݁₊ ⊹ .Informations. ⊹ ₊ ݁.</summary>
+  
+ 
+  This account is for following specific fandoms. That includes :
+
+- Historical fandom and games (Guts & Blackpowder, Lexington & Concord, Centaura, etc.)
+
+- Hetalia (occasionally)
+
+- Countryhumans (sometimes)
+
+- And similar things around that
+
+</details>
+
+<details closed>
+<summary>. ݁₊ ⊹ .About me. ⊹ ₊ ݁.</summary>
+
+
+I will just put the basics..
+
+The names are Ethan, Karl, or Aurum. Call me any names that you pleased.
+
+Goes by she/her and he/him, but please do not use they/them on me. I am a minor.
+
+I would say that I am easy-going and a chill guy.
+
+
+<p align="center">
+
 
 <p align="center">
 Check out my main and links if you're interested.
