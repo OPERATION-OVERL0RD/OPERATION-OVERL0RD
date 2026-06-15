@@ -79,7 +79,8 @@ While you're still here, I'm telling few some of my favourite figures. That are 
 
 </details>
 
-
+<p align="center">
+${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
 
 
 <p align="center">
