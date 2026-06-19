@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/736a5d71-7fb9-4df0-9680-69a140681499" width=780>
+<img src="https://github.com/user-attachments/assets/736a5d71-7fb9-4df0-9680-69a140681499" width=740>
 
 
 
@@ -107,8 +107,6 @@ ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
 
 
-<p align="center">
-<img src="https://i.gifer.com/8vS2.gif" width=700>
 
 
 <p align="center">
