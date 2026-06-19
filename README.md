@@ -3,13 +3,18 @@
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/55ab9635-ecae-4974-be0b-a24ceb937fa9" width=600>
+<img src="https://github.com/user-attachments/assets/736a5d71-7fb9-4df0-9680-69a140681499" width=780>
+
+
 
 <p align="center">
 ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
 
-<p align="center">
-${\textsf{\color{#FFCC33} "All animals are equal, but some animals are more equal than others." }}$
+
+ <div align="center">
+   
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=40&letterSpacing=double+space&duration=2609&pause=1000&color=FFCC33&center=true&vCenter=true&width=650&height=52&lines="All+animals+are+equal%2C;But+some+animals;are+more+equal+than+others.";"The+creatures+outside;looked+from+pig+to+man%2C;and+from+man+to+pig%2C;and+from+pig+to+man+again.;but+already+it+was+impossible;to+say+which+was+which.")](https://git.io/typing-svg)
+</div>
 
 
 <p align="center">
@@ -94,6 +99,12 @@ ${\textsf{\color{#A0E6FF} Check out my main and links if you're interested. Foll
 
 <p align="center">
 ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
+
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/55ab9635-ecae-4974-be0b-a24ceb937fa9" width=600>
+
 
 
 <p align="center">
