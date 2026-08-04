@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/736a5d71-7fb9-4df0-9680-69a140681499" width=740>
+<img src="https://github.com/user-attachments/assets/736a5d71-7fb9-4df0-9680-69a140681499" width=600>
 
 
 
@@ -13,7 +13,7 @@ ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
  <div align="center">
    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=40&letterSpacing=double+space&duration=2609&pause=1000&color=FFCC33&center=true&vCenter=true&width=650&height=52&lines="All+animals+are+equal%2C;But+some+animals;are+more+equal+than+others.";"The+creatures+outside;looked+from+pig+to+man%2C;and+from+man+to+pig%2C;and+from+pig+to+man+again.;but+already+it+was+impossible;to+say+which+was+which.")](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&letterSpacing=double+space&duration=2000&pause=500&color=FFCC33&center=true&vCenter=true&width=650&height=52&lines="Trust+me!;I'll+be+the+one+who+fight+for+you;when+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29")](https://git.io/typing-svg)
 </div>
 
 
