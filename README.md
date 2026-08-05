@@ -13,7 +13,7 @@ ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
  <div align="center">
    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&letterSpacing=double+space&duration=1000&pause=300&color=FFCC33&center=true&vCenter=true&width=650&height=52&lines="And+all+I'm+askin'+in+return;Is+for+you+to+show+me+which+way+to+turn.;Trust+me!;I'll+be+the+one+who+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29;Trust+me!;I'll+be+the+one+who+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29")](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&letterSpacing=double+space&duration=1000&pause=300&color=FFCC33&center=true&vCenter=true&width=650&height=52&lines="And+all+I'm+askin'+in+return;Is+for+you+to+show+me+which+way+to+turn.;Trust+me!;I'll+be+the+one+who'll+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29;Trust+me!;I'll+be+the+one+who'll+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29")](https://git.io/typing-svg)
 </div>
 
 
@@ -22,7 +22,7 @@ ${\textsf{\color{#56E6AC} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧──�
 
 
 <details closed>
-  <summary>${\textsf{\color{#FFCC30}. ݁₊ ⊹ . Operation Overlord . ⊹ ₊ ݁.}}$</summary>
+  <summary>$\color{#FBF5D2}{. ݁₊ ⊹ . Operation\space Overlord . ⊹ ₊ ݁.}$</summary>
   <p align="center"> 
 
 **_Operation Overlord_** was the codename for the Battle of Normandy, the Allied operation that launched the successful liberation of German-occupied Western Europe during World War II. The operation was launched on 6 June 1944 (D-Day) with the Normandy landings (Operation Neptune).
@@ -36,7 +36,7 @@ The result was a victory for the Allied Powers.
 
 
 <details closed>
-<summary>${\textsf{\color{#FFC30B}. ݁₊ ⊹ . Informations . ⊹ ₊ ݁.}}$</summary>
+  <summary>$\color{#FEE39F}{. ݁₊ ⊹ . Informations . ⊹ ₊ ݁.}$</summary>
   
  
   This account is for following specific fandoms. That includes :
@@ -55,7 +55,7 @@ The result was a victory for the Allied Powers.
 </details>
 
 <details closed>
-<summary>${\textsf{\color{#FDDC5C}. ݁₊ ⊹ . About me . ⊹ ₊ ݁.}}$</summary>
+  <summary>$\color{#EFBB55}{. ݁₊ ⊹ . About\space Me . ⊹ ₊ ݁.}$</summary>
 
 
 I will just put the basics..
@@ -74,7 +74,7 @@ I'm quite dry. Tonetags are not needed for me, but I might ask if I need to clar
 
 
 <details closed>
-<summary>${\textsf{\color{#DA9100}. ݁₊ ⊹ . Important Note . ⊹ ₊ ݁.}}$</summary>
+  <summary>$\color{#AD6D15}{. ݁₊ ⊹ . Important\space Note . ⊹ ₊ ݁.}$</summary>
 
 Some of you might've already seen my alt account, who's username is _NumberOneNapoleonFan_. Even though the name is implied, I am **_NOT_** a big fan of Napoleon Bonaparte. Many people might possibly see me as someone who idolises Napoleon, and I fear that some people won't interact with me because of this.
 
