@@ -89,7 +89,7 @@ ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
 
 <p align="center">
-${\textsf{\color{#A0E6FF} Check out my main and links if you're interested. Follow my main if you want to. }}$
+ $\color{#A0E6FF}{Check\space out\space my\space main\space and\space links\space if\space you're\space interested.\space Follow\space my\space main\space if\space you\space want\space to.}$
 
 
 
