@@ -8,7 +8,7 @@
 
 
 <p align="center">
-${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
+${\textsf{\color{#495589} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
 
 
  <div align="center">
@@ -18,7 +18,7 @@ ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
 
 <p align="center">
-${\textsf{\color{#56E6AC} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧────── }}$
+${\textsf{\color{#7087BB} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧────── }}$
 
 
 <details closed>
@@ -85,7 +85,7 @@ While you're still here, I'm telling few some of my favourite figures. That are 
 </details>
 
 <p align="center">
-${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
+${\textsf{\color{#A2B7E4} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧────── }}$
 
 
 <p align="center">
@@ -98,7 +98,7 @@ ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
 
 <p align="center">
-${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
+${\textsf{\color{#BBD0ED} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
 
 
 
