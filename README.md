@@ -13,7 +13,7 @@ ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
  <div align="center">
    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&letterSpacing=double+space&duration=2000&pause=500&color=FFCC33&center=true&vCenter=true&width=650&height=52&lines="Trust+me!;I'll+be+the+one+who+fight+for+you;when+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29")](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&letterSpacing=double+space&duration=1000&pause=300&color=FFCC33&center=true&vCenter=true&width=650&height=52&lines="And+all+I'm+askin'+in+return;Is+for+you+to+show+me+which+way+to+turn.;Trust+me!;I'll+be+the+one+who+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29;Trust+me!;I'll+be+the+one+who+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29")](https://git.io/typing-svg)
 </div>
 
 
