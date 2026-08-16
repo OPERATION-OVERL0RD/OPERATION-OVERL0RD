@@ -25,11 +25,19 @@ ${\textsf{\color{#7087BB} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧──�
   <summary>$\color{#FBF5D2}{. ݁₊ ⊹ . Operation\space Overlord . ⊹ ₊ ݁.}$</summary>
   <p align="center"> 
 
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/NormandySupply_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" width=800 >
+
+
 **_Operation Overlord_** was the codename for the Battle of Normandy, the Allied operation that launched the successful liberation of German-occupied Western Europe during World War II. The operation was launched on 6 June 1944 (D-Day) with the Normandy landings (Operation Neptune).
 
-The decision to undertake cross-channel landings in 1944 was made at the Trident Conference in Washington in May 1943. American General Dwight D. Eisenhower was appointed commander of Supreme Headquarters Allied Expeditionary Force, and British General Bernard Montgomery was named commander of the 21st Army Group, which comprised all the land forces involved in the operation.
+The decision to undertake cross-channel landings in 1944 was made at the Trident Conference in Washington in May 1943. American General **Dwight D. Eisenhower** was appointed commander of Supreme Headquarters Allied Expeditionary Force, and British General **Bernard Montgomery** was named commander of the 21st Army Group, which comprised all the land forces involved in the operation.
 
 The result was a victory for the Allied Powers.
+
+Source : <a href="https://en.wikipedia.org/wiki/Operation_Overlord/">Wikipedia</a> 
 
 </details>
 
