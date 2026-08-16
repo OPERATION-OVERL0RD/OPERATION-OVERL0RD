@@ -68,7 +68,7 @@ I would say that I am easy-going and a chill guy. Really, I rarely get mad at ev
 
 Note that I will insult you at times if I start to get comfortable with you. Not a mocking insult, just light and teasing ones. It's hard for me show empathy for others, although I will do my best to comfort you. Therefore, you are free to vent to me anytime.
 
-I'm quite dry. Tonetags are not needed for me, but I might ask if I need to clarify. 
+I'm quite dry. Tonetags are not needed for me, but I might ask if you have to clarify. 
 
 </details>
 
@@ -80,7 +80,7 @@ Some of you might've already seen my alt account, who's username is _NumberOneNa
 
 The reason is because there are some people that put _people that idolises Napoleon_ in their dni list. And, uhh.. I don't want to be remembered as someone who's obsessed with Napoleon, yo 😭. No offence to people that are indeed obsessed with him, just don't be annoying and _really_ weird about him. Bro's not even in my top three most favourited historical figures, dawg.
 
-While you're still here, I'm telling few some of my favourite figures. That are _Otto von Bismarck_, _Friedrich der Große_, and _Alexander the Great_. Don't ask about von Bismarck and Frederick... I just love Germany's history in general. 👍
+While you're still here, I'm telling few some of my favourite figures. Those are _Otto von Bismarck_, _Michel Ney_, _Friedrich der Große_, and _Alexander the Great_. I love Ney, heh, my favourite marshal. Don't ask about von Bismarck and Frederick... I just love Germany's history in general. 👍
 
 </details>
 
@@ -88,9 +88,13 @@ While you're still here, I'm telling few some of my favourite figures. That are 
 ${\textsf{\color{#A2B7E4} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧────── }}$
 
 
-<p align="center">
- $\color{#A0E6FF}{Check\space out\space my\space main\space and\space links\space if\space you're\space interested.\space Follow\space my\space main\space if\space you\space want\space to.}$
 
+<div align="center">
+<table>
+  <tr>
+ <td> $\color{#A0E6FF}{Check\space out\space my\space main\space and\space links\space if\space you're\space interested.\space Follow\space my\space main\space if\space you\space want\space to.}$
+</table>
+ </tr>
 
 
 
@@ -103,7 +107,7 @@ ${\textsf{\color{#BBD0ED} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/55ab9635-ecae-4974-be0b-a24ceb937fa9" width=600>
+<img src="https://github.com/user-attachments/assets/00942704-1e8d-459c-8f3b-d371b74a9547" width=600>
 
 
 
