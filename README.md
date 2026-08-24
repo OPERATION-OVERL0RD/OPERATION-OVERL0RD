@@ -2,8 +2,9 @@
 <img src="https://github.com/user-attachments/assets/0ef0813b-9597-429c-a8bc-220c099cddef" >
 
 
+
 <p align="center">
-<img src="https://github.com/user-attachments/assets/736a5d71-7fb9-4df0-9680-69a140681499" width=600>
+<img src="https://github.com/user-attachments/assets/00942704-1e8d-459c-8f3b-d371b74a9547" width=600>
 
 
 
@@ -114,8 +115,6 @@ ${\textsf{\color{#BBD0ED} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/00942704-1e8d-459c-8f3b-d371b74a9547" width=600>
 
 
 
