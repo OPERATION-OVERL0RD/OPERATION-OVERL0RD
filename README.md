@@ -85,11 +85,8 @@ I'm quite dry. Tonetags are not needed for me, but I might ask if you have to cl
 <details closed>
   <summary>$\color{#AD6D15}{. ݁₊ ⊹ . Important\space Note . ⊹ ₊ ݁.}$</summary>
 
-Some of you might've already seen my alt account, who's username is _NumberOneNapoleonFan_. Even though the name is implied, I am **_NOT_** a big fan of Napoleon Bonaparte. Many people might possibly see me as someone who idolises Napoleon, and I fear that some people won't interact with me because of this.
+I changed my other alt's username. Now it's _PreussensGloria_. No, thankfully no one haven't flame me for the previous username. One more thing, I will say this yet again, I am **NOT** a Napoleon fan neither glazer. No offence to people that are indeed obsessed with him, just don't be annoying and _really_ weird about him (Napoleon x Alexander _cough cough_). Bro's not even in my top three most favourited historical figures, dawg.
 
-The reason is because there are some people that put _people that idolises Napoleon_ in their dni list. And, uhh.. I don't want to be remembered as someone who's obsessed with Napoleon, yo 😭. No offence to people that are indeed obsessed with him, just don't be annoying and _really_ weird about him. Bro's not even in my top three most favourited historical figures, dawg.
-
-While you're still here, I'm telling few some of my favourite figures. Those are _Otto von Bismarck_, _Michel Ney_, _Friedrich der Große_, and _Alexander the Great_. I love Ney, heh, my favourite marshal. Don't ask about von Bismarck and Frederick... I just love Germany's history in general. 👍
 
 </details>
 
