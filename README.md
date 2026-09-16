@@ -14,7 +14,7 @@ ${\textsf{\color{#495589} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . �
 
  <div align="center">
    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&letterSpacing=double+space&duration=1000&pause=300&color=FFCC33&center=true&vCenter=true&width=650&height=52&lines="And+all+I'm+askin'+in+return;Is+for+you+to+show+me+which+way+to+turn.;Trust+me!;I'll+be+the+one+who'll+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29;Trust+me!;I'll+be+the+one+who'll+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29")](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Moon+Dance&size=40&letterSpacing=double+space&duration=1000&pause=300&color=EFBB55&center=true&vCenter=true&width=650&height=52&lines="And+all+I'm+askin'+in+return;Is+for+you+to+show+me+which+way+to+turn.;Trust+me!;I'll+be+the+one+who'll+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29;Trust+me!;I'll+be+the+one+who'll+fight+for+you;When+things+go+wrong!;Trust+me!;I'll+never+let+you+down.;%28Let+you+down.%29")](https://git.io/typing-svg)
 </div>
 
 
@@ -55,7 +55,7 @@ Source : <a href="https://en.wikipedia.org/wiki/Operation_Overlord/">Wikipedia</
 2. Games (_Guts & Blackpowder, Lexington & Concord, Centaura, etc._)
 3. Films (_Inglorious Basterds, All Quiet on the Western Front, Waterloo, La Révolution Française, etc._)
 
-- Hetalia (occasionally)
+- Hetalia (occasionally, usually due to me finding one's pony is gorgeous or is a cool person!)
 
 - Countryhumans (sometimes)
 
@@ -87,6 +87,10 @@ I'm quite dry. Tonetags are not needed for me, but I might ask if you have to cl
 
 I changed my other alt's username. Now it's _PreussensGloria_. No, thankfully no one haven't flame me for the previous username. One more thing, I will say this yet again, I am **NOT** a Napoleon fan neither glazer. No offence to people that are indeed obsessed with him, just don't be annoying and _really_ weird about him (Napoleon x Alexander _cough cough_). Bro's not even in my top three most favourited historical figures, dawg.
 
+Perhaps I shall change the theme of this GitHub into Hamilton musical. Hmmm...
+
+Extra note, I don't really care about ships, just don't ship real people, yo. 😭
+
 
 </details>
 
@@ -104,7 +108,7 @@ ${\textsf{\color{#A2B7E4} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧──�
 
 
 
-![:Allies:](https://komarev.com/ghpvc/?username=OPERATION-OVERL0RD&color=ffcc33&label=Allies)
+![:Allies:](https://komarev.com/ghpvc/?username=OPERATION-OVERL0RD&color=EFBB55&label=Allies)
 
 
 <p align="center">
