@@ -98,7 +98,7 @@ ${\textsf{\color{#A2B7E4} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧──�
 <div align="center">
 <table>
   <tr>
- <td> $\color{#A0E6FF}{Check\space out\space my\space main\space and\space links\space if\space you're\space interested.\space Follow\space my\space main\space if\space you\space want\space to.}$
+ <td> $\color{#A0E6FF}{Check\space out\space my\space main\space and\space links\space if\space you're\space interested,\ I\ dunno.}$
 </table>
  </tr>
 
