@@ -88,6 +88,7 @@ I'm quite dry. Tonetags are not needed for me, but I might ask if you have to cl
 I changed my other alt's username. Now it's _PreussensGloria_. No, thankfully no one haven't flame me for the previous username. One more thing, I will say this yet again, I am **NOT** a Napoleon fan neither glazer. No offence to people that are indeed obsessed with him, just don't be annoying and _really_ weird about him (Napoleon x Alexander _cough cough_). Bro's not even in my top three most favourited historical figures, dawg.
 
 Perhaps I shall change the theme of this GitHub into Hamilton musical. Hmmm...
+(Ok, I lied. No Hamilton, but most definitely Inglorious Basterds, yeahhh...)
 
 Extra note, I don't really care about ships, just don't ship real people, yo. 😭
 
